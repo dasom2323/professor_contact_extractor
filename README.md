@@ -28,4 +28,4 @@ Replace filename.csv with the desired name of the output CSV file.
 Working on a webpage that displays all the collected information on a single page.
 
 ## Author
-Author: Dasom Lee
+Dasom Lee
